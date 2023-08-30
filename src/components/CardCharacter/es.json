@@ -1,0 +1,13 @@
+{
+  "Gender": "Genero",
+  "Male": "Masculino",
+  "Female": "Femenino",
+  "Genderless": "Sin genero",
+  "Alive": "Vivo",
+  "Dead": "Muerto",
+  "unknown": "Desconocido",
+  "Specie": "Especie",
+  "Human": "Humano",
+  "Alien": "Extraterrestre",
+  "Humanoid": "Humanoide"
+}
